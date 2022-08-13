@@ -13,3 +13,9 @@
 - branch : 기존 내용을 유지한 채 새로운 내용을 추가하고 싶을 때 사용
 - checkout : 특정 브랜치(혹은 커밋)으로 돌아가고 싶을 때 사용
 - 소스트리의 checkout : 브랜치 이름을 더블클릭하는 것만으로 checkout 가능
+
+
+# merge test 1
+- head branch에 변경사항이 없고
+- 병합 대상 branch가 head로부터 시작된 경우
+- 바로 병합 가능 = Fast-forward
