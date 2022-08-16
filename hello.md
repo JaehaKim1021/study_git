@@ -19,3 +19,8 @@
 - head branch에 변경사항이 없고
 - 병합 대상 branch가 head로부터 시작된 경우
 - 바로 병합 가능 = Fast-forward
+
+
+
+### 충돌 해결하기
+- git 충돌 testing
