@@ -34,8 +34,3 @@
 ## stash
 
 - 다른 브랜치로 체크아웃 하기 전에 현재 작업 내용을 저장하는 임시 저장소
-
-## test
-
-- trash line
-- not trash line 1
